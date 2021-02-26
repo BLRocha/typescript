@@ -31,7 +31,7 @@ const lisu: Array<string> = ["a", "b", "c"];
 ```
 `Tuple` Tuplas 
 ```ts
-const tup: [string, number]
+const tup: [string, number];
 ```
 `Enum` Enumeráveis
 ```ts
@@ -41,5 +41,5 @@ enum OrderStatus {
     Dispatched = 3,
     Sent = 4,
     Received = 5
-}
+};
 ```
